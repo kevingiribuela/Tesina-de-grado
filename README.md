@@ -4,7 +4,7 @@
  En el presente repositorio se encuentra:
  - La presentación de la defensa pública dada el 2 de Diciembre de 2022.
  - El informe final de la tesina de grado para la obtención del título de Ingeniero Electrónico.
- - Un video utilizado durante la presentación de la tesina para mostrar el correcto funcionamiento del dipositivo adquiriendo señales de electrocardiograma y transmitiendolas por WiFi.
+ - Un video (ECG.mp4) utilizado durante la presentación de la tesina para mostrar el correcto funcionamiento del dipositivo adquiriendo señales de electrocardiograma y transmitiendolas por WiFi.
  - En la carpeta "Imagenes" se pueden encontrar algunas de las cientos de imágenes tomadas durante el proceso, muchas de las cuales representan momentos de grandes avances. 
  
  ## Sala limpia. UNLP.
